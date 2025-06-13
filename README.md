@@ -11,4 +11,3 @@ This project investigates the theory and simulation of P-N junctions in semicond
 
 - **Theoretical research report** on junction physics, built-in potential, and device I–V characteristics.  
 - **COMSOL Multiphysics models** to simulate 2D P-N junction behavior under forward bias across a range of doping levels (10¹⁴–10¹⁹ cm⁻³) and analyze the results to compare them with the analytical Shockley diode model.  
-
